@@ -19,6 +19,7 @@ Displays Jobs, employee assigned to that job, and a map depicting where the job 
 * [Handlebars](https://handlebarsjs.com)
 * [Mapbox](https://www.mapbox.com/about/maps/)
 * [Mailgun](https://www.mailgun.com)
+* [dotENV](https://www.npmjs.com/package/dotenv)
 * SQL Server
 
 ## Authors
