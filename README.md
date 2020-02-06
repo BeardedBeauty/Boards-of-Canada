@@ -1,5 +1,6 @@
 # Taskmaster 3000 (TM3K)
-This was the second project to come from the U of M Coding Bootcamp. TM3K is a job organizer for companies that want to streamline the work load. Complete with manager, supervisor, and employee pages that allow the user to either create jobs, modify and assign jobs, and view jobs respectively
+This was the second project to come from the U of M Coding Bootcamp. TM3K is a job organizer for companies that want to streamline the work load. Complete with manager, supervisor, and employee pages that allow the user to either create jobs, modify and assign jobs, and view jobs respectively.
+View [live site](https://taskmaster3000.herokuapp.com/)
 
 ## Usage
 The landing page displays the different management types, clicking on one will bring you to that repective utility
